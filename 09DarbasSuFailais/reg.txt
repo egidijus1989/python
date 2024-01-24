@@ -1,0 +1,24 @@
+Vartotojas įvedė skaičių 55
+Sugeneruotas atsitiktinis skaičius 27
+x spėjimu vartotojas įvedė 25. atsakymas –sugeneruotas skaičius didesnis
+x spėjimu vartotojas įvedė 35. atsakymas –sugeneruotas skaičius mažesnis
+x spėjimu vartotojas įvedė 30. atsakymas –sugeneruotas skaičius mažesnis
+x spėjimu vartotojas įvedė 28. atsakymas –sugeneruotas skaičius mažesnis
+x spėjimu vartotojas įvedė 27. 5 spėjimu vartotojas atspėjo skaičių
+Vartotojas įvedė skaičių 100
+Sugeneruotas atsitiktinis skaičius 31
+x spėjimu vartotojas įvedė 30. Atsakymas – sugeneruotas skaičius didesnis
+x spėjimu vartotojas įvedė 32. Atsakymas – sugeneruotas skaičius mažesnis
+x spėjimu vartotojas įvedė 31. 3 spėjimu vartotojas atspėjo skaičių
+Į užklausą „Ar žaisite dar“ pasirinko „Taip“
+Vartotojas įvedė skaičių 100
+Sugeneruotas atsitiktinis skaičius 50
+x spėjimu vartotojas įvedė 50. 1 spėjimu vartotojas atspėjo skaičių
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“
+Vartotojas įvedė skaičių 100
+Sugeneruotas atsitiktinis skaičius 55
+x spėjimu vartotojas įvedė 60. Atsakymas – sugeneruotas skaičius mažesnis
+x spėjimu vartotojas įvedė 50. Atsakymas – sugeneruotas skaičius didesnis
+x spėjimu vartotojas įvedė 55. 
+ 3 spėjimu vartotojas atspėjo skaičių
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“

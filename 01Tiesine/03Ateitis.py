@@ -1,0 +1,5 @@
+a = int(input('koks a??'))
+print(f'a={a}')
+b = input('b = ')
+print(f'b={b}')
+print(a + int(b))

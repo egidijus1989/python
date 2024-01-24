@@ -1,0 +1,3 @@
+gerai issaugoti duomenys: Duomenys is 1 bylos
+gerai issaugoti duomenys: Duomenys is 2 bylos
+klaidingi duomenys: ['duom 3.txt']
