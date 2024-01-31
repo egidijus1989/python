@@ -1,0 +1,5 @@
+Jonas: 12,
+Tadas: 15,
+Rimas: 25,
+Pranas: 23,
+Arunas: 14
