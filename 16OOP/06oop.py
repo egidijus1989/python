@@ -15,7 +15,7 @@ class Robotas:
         return print(txt)
     
     def __del__(self):
-        print("Objketas", self, "Pasalintas")
+        print("Objektas", self, "Pasalintas")
     
 
 
