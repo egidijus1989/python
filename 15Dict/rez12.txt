@@ -1,0 +1,39 @@
+ Simboliu   yra 124
+ Simboliu a yra 110
+ Simboliu i yra 106
+ Simboliu s yra 68
+ Simboliu r yra 47
+ Simboliu e yra 43
+ Simboliu n yra 42
+ Simboliu t yra 42
+ Simboliu u yra 40
+ Simboliu k yra 37
+ Simboliu 
+ yra 35
+ Simboliu o yra 33
+ Simboliu l yra 30
+ Simboliu m yra 29
+ Simboliu v yra 28
+ Simboliu p yra 24
+ Simboliu g yra 24
+ Simboliu d yra 21
+ Simboliu , yra 17
+ Simboliu ė yra 16
+ Simboliu b yra 14
+ Simboliu ž yra 11
+ Simboliu ! yra 10
+ Simboliu ų yra 10
+ Simboliu š yra 10
+ Simboliu j yra 10
+ Simboliu y yra 8
+ Simboliu ą yra 7
+ Simboliu . yra 6
+ Simboliu ? yra 4
+ Simboliu ū yra 4
+ Simboliu į yra 3
+ Simboliu ę yra 2
+ Simboliu č yra 2
+ Simboliu ; yra 1
+ Simboliu – yra 1
+
+-------------------------------------------------------------
